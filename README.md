@@ -21,7 +21,7 @@ Models in the report can be found in:
 
 ## Datasets
 
-1. Download `Burgers_R10.zip` for Burgers and `Darcy_421.zip` for Darcy Flow from [this Google Drive Link](https://drive.google.com/drive/folders/1UnbQh2WWc6knEHbLn-ZaXrKUZhp7pjt-){:target="_blank"}
+1. Download `Burgers_R10.zip` for Burgers and `Darcy_421.zip` for Darcy Flow from [this Google Drive Link](https://drive.google.com/drive/folders/1UnbQh2WWc6knEHbLn-ZaXrKUZhp7pjt-)
 2. Unzip the files
 3. Create a directory `burgers` and `darcy421` in the root directory
 4. Move the unzipped files to the respective directories
